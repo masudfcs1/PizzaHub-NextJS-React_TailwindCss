@@ -20,6 +20,8 @@ https://github.com/masudfcs1/PizzaHub-React_TailwindCss/assets/57311382/a0021514
 ![image](https://github.com/masudfcs1/PizzaHub-React_TailwindCss/assets/57311382/8fb96203-0e40-46d5-9e3c-02dcd01e6c4b)
 ![image](https://github.com/masudfcs1/PizzaHub-React_TailwindCss/assets/57311382/5980bf90-baed-4e74-8675-53cc9a407e9a)
 ![image](https://github.com/masudfcs1/PizzaHub-React_TailwindCss/assets/57311382/b39eb43d-3e8c-41e2-a832-8f1d320e6edb)
+![image](https://github.com/masudfcs1/PizzaHub-React_TailwindCss/assets/57311382/8aee71e2-bef1-4005-9659-1ad15be782f0)
+![image](https://github.com/masudfcs1/PizzaHub-React_TailwindCss/assets/57311382/f2e2e37f-1ecf-4622-ac45-36bb7aea2ada)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
