@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## PizzaHub
 
 First, run the development server:
 
@@ -15,6 +15,7 @@ pnpm dev
 https://github.com/masudfcs1/PizzaHub-React_TailwindCss/assets/57311382/a0021514-b746-4536-bb9f-a7b556f32c14
 
 ![image](https://github.com/masudfcs1/PizzaHub-React_TailwindCss/assets/57311382/90ba05c7-bb2e-44f5-86ab-f1b9c1ce432b)
+![image](https://github.com/masudfcs1/PizzaHub-React_TailwindCss/assets/57311382/95b38151-851b-4d6b-9eba-86d4a65db170)
 ![image](https://github.com/masudfcs1/PizzaHub-React_TailwindCss/assets/57311382/ed3425f3-2490-4ac3-bfb8-7fac189640bc)
 ![image](https://github.com/masudfcs1/PizzaHub-React_TailwindCss/assets/57311382/d977af2d-1ec4-4594-925a-110cd8a1cdac)
 ![image](https://github.com/masudfcs1/PizzaHub-React_TailwindCss/assets/57311382/8fb96203-0e40-46d5-9e3c-02dcd01e6c4b)
