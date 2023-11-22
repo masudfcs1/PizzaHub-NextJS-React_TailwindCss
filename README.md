@@ -6,10 +6,7 @@ First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+
 ```
 
 https://github.com/masudfcs1/PizzaHub-React_TailwindCss/assets/57311382/a0021514-b746-4536-bb9f-a7b556f32c14
