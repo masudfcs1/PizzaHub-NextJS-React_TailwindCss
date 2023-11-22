@@ -1,15 +1,14 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## PizzaHub
+## PizzaHub-NextJS-React_TailwindCss
+# [Live Demo](https://pizzahub-two.vercel.app/)
+Live Demo->https://pizzahub-two.vercel.app/
 
-First, run the development server:
+PizzaHub, a web application powered by Next.js 13, React.js, and Tailwind CSS with animations, provides a modern and engaging pizza ordering experience. Next.js 13 ensures optimal performance and SEO, while React.js facilitates a modular and efficient component-based structure. Tailwind CSS simplifies styling with its utility-first approach, and the incorporation of animations adds flair to the user interface. Tailwind CSS animations contribute dynamic transitions, creating an interactive and visually appealing platform. The result is a seamless and delightful PizzaHub web application, where a sophisticated tech stack meets captivating animations for an enhanced user experience in the world of pizza ordering.
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+
 ```
 
 https://github.com/masudfcs1/PizzaHub-React_TailwindCss/assets/57311382/a0021514-b746-4536-bb9f-a7b556f32c14
